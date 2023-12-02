@@ -1,0 +1,107 @@
+[
+    {
+      "name": "John Doe",
+      "postion":"President",
+      "photoUrl": "https://source.unsplash.com/random/600x400",
+      "linkedinUrl": "https://linkedin.com/in/johndoe",
+      "email": "john.doe@example.com",
+      "instagramUrl":"https://www.instagram.com/virat.kohli"
+    }
+    ,{
+      "name": "Raeann Leitner",
+      "postion":"vice-President",
+      "photoUrl": "https://source.unsplash.com/random/600x400",
+      "linkedinUrl": "https://linkedin.com/in/janedoe",
+      "email": "jane.doe@example.com",
+      "instagramUrl":"https://www.instagram.com/virat.kohli"
+    }
+    ,{
+      "name": "Ledger Kenyon",
+      "postion":"Tech Head",
+      "photoUrl": "https://source.unsplash.com/random/600x400",
+      "linkedinUrl": "https://linkedin.com/in/janedoe",
+      "email": "jane.doe@example.com",
+      "instagramUrl":"https://www.instagram.com/virat.kohli"
+    }
+    ,{
+      "name": "Adaya Edison",
+      "postion":"Content Head",
+      "photoUrl": "https://source.unsplash.com/random/600x400",
+      "linkedinUrl": "https://linkedin.com/in/janedoe",
+      "email": "jane.doe@example.com",
+      "instagramUrl":"https://www.instagram.com/virat.kohli"
+    }
+    ,{
+      "name": "Jayse Lance",
+      "photoUrl": "https://source.unsplash.com/random/600x400",
+      "linkedinUrl": "https://linkedin.com/in/janedoe",
+      "email": "jane.doe@example.com",
+      "instagramUrl":"https://www.instagram.com/virat.kohli"
+    }
+    ,{
+      "name": "Raeann Leitner",
+      "photoUrl": "https://source.unsplash.com/random/600x400",
+      "linkedinUrl": "https://linkedin.com/in/janedoe",
+      "email": "jane.doe@example.com",
+      "instagramUrl":"https://www.instagram.com/virat.kohli"
+    }
+    ,{
+      "name": "Ledger Kenyon",
+      "photoUrl": "https://source.unsplash.com/random/600x400",
+      "linkedinUrl": "https://linkedin.com/in/janedoe",
+      "email": "jane.doe@example.com"
+    }
+    ,{
+      "name": "Adaya Edison",
+      "photoUrl": "https://source.unsplash.com/random/600x400",
+      "linkedinUrl": "https://linkedin.com/in/janedoe",
+      "email": "jane.doe@example.com",
+      "instagramUrl":"https://www.instagram.com/virat.kohli"
+    }
+    ,{
+      "name": "Jayse Lance",
+      "photoUrl": "https://source.unsplash.com/random/600x400",
+      "linkedinUrl": "https://linkedin.com/in/janedoe",
+      "email": "jane.doe@example.com",
+      "instagramUrl":"https://www.instagram.com/virat.kohli"
+    }
+    ,{
+      "name": "Raeann Leitner",
+      "photoUrl": "https://source.unsplash.com/random/600x400",
+      "linkedinUrl": "https://linkedin.com/in/janedoe",
+      "email": "jane.doe@example.com",
+      "instagramUrl":"https://www.instagram.com/virat.kohli"
+    }
+    ,{
+      "name": "Ledger Kenyon",
+      "photoUrl": "https://source.unsplash.com/random/600x400",
+      "linkedinUrl": "https://linkedin.com/in/janedoe",
+      "email": "jane.doe@example.com",
+      "instagramUrl":"https://www.instagram.com/virat.kohli"
+    }
+    ,{
+      "name": "Jayse Lance",
+      "photoUrl": "https://source.unsplash.com/random/600x400",
+      "linkedinUrl": "https://linkedin.com/in/janedoe",
+      "email": "jane.doe@example.com"
+    }
+    ,{
+      "name": "Raeann Leitner",
+      "photoUrl": "https://source.unsplash.com/random/600x400",
+      "linkedinUrl": "https://linkedin.com/in/janedoe",
+      "email": "jane.doe@example.com"
+    }
+    ,{
+      "name": "Ledger Kenyon",
+      "photoUrl": "https://source.unsplash.com/random/600x400",
+      "linkedinUrl": "https://linkedin.com/in/janedoe",
+      "email": "jane.doe@example.com"    }
+    ,{
+      "name": "Jayse Lance",
+      "photoUrl": "https://source.unsplash.com/random/600x400",
+      "linkedinUrl": "https://linkedin.com/in/janedoe",
+      "email": "jane.doe@example.com"
+    }
+
+  ]
+

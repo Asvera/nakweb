@@ -1,0 +1,34 @@
+[
+    {
+      "name": "John Doe",
+      "postion":"President",
+      "photoUrl": "https://source.unsplash.com/random/600x400",
+      "linkedinUrl": "https://linkedin.com/in/johndoe",
+      "email": "john.doe@example.com",
+      "instagramUrl":"https://www.instagram.com/virat.kohli"
+    }
+    ,{
+      "name": "Raeann Leitner",
+      "postion":"Vice-President",
+      "photoUrl": "https://source.unsplash.com/random/600x400",
+      "linkedinUrl": "https://linkedin.com/in/janedoe",
+      "email": "jane.doe@example.com",
+      "instagramUrl":"https://www.instagram.com/virat.kohli"
+    }
+    ,{
+      "name": "Ledger Kenyon",
+      "postion":"Tech Head",
+      "photoUrl": "https://source.unsplash.com/random/600x400",
+      "linkedinUrl": "https://linkedin.com/in/janedoe",
+      "email": "jane.doe@example.com",
+      "instagramUrl":"https://www.instagram.com/virat.kohli"
+    }
+    ,{
+      "name": "Adaya Edison",
+      "postion":"Content Head",
+      "photoUrl": "https://source.unsplash.com/random/600x400",
+      "linkedinUrl": "https://linkedin.com/in/janedoe",
+      "email": "jane.doe@example.com",
+      "instagramUrl":"https://www.instagram.com/virat.kohli"
+    }
+]
