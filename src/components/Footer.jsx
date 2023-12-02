@@ -3,7 +3,7 @@ import Naklogo from '/logo.png'
 export default function Footer() {
 
     return(
-        <div className="w-screen bg-primary text-white p-4" id='footer'>
+        <div className="bg-primary text-white p-4" id='footer'>
 
             <div className="py-4">
                 <div className="flex md:justify-evenly md:items-center ">

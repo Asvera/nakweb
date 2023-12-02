@@ -1,0 +1,24 @@
+.preNavDiv{
+    width: 26%;
+    justify-content: center;
+}
+
+.preNavA{
+    width: 20%;
+
+
+}
+
+.rightSideNavSectionPre {
+    width: 16%;
+    justify-content: center;
+    gap: 10px;
+}
+
+.rightSideNavAPre{
+    width: 35%;
+}
+
+.navBarDiv{
+    width:100%;
+}

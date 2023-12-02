@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import { Link as Link1 } from "react-scroll";
 
 import Naklogo from '/logo.png'
+import "./All Styles/Navbar.css"
 
 export default function Navbar() {
 
@@ -16,7 +17,7 @@ export default function Navbar() {
     return (
         <header>
             <nav>
-                <div className="w-screen bg-primary px-5">
+                <div className="bg-primary px-5 navBarDiv">
                     <div className="flex justify-between">
                         <div className="flex space-x-4">
 
@@ -29,24 +30,24 @@ export default function Navbar() {
 
                         </div>
 
-                        <div className="hidden md:flex items-center space-x-4">
-                            <Link className="py-3 px-2 text-white hover:bg-indigo-500 rounded-full" to="about" spy={true} smooth={true} offset={50} duration={500}>
+                        <div className="hidden md:flex items-center space-x-4 preNavDiv">
+                            <Link className="py-3 px-2 text-white hover:bg-indigo-500 rounded-full preNavA" to="about" spy={true} smooth={true} offset={50} duration={500}>
                                 About
                             </Link>
-                            <Link className="py-3 px-2 text-white hover:bg-indigo-500 rounded-full" to="teams">
+                            <Link className="py-3 px-2 text-white hover:bg-indigo-500 rounded-full preNavA" to="teams">
                                 Teams
                             </Link>
-                            <Link className="py-3 px-2 text-white hover:bg-indigo-500 rounded-full" to="events">
+                            <Link className="py-3 px-2 text-white hover:bg-indigo-500 rounded-full preNavA" to="events">
                                 Events
                             </Link>
-                            <Link className="py-3 px-2 text-white hover:bg-indigo-500 rounded-full" to="team" spy={true} smooth={true} offset={50} duration={500}>
+                            <Link className="py-3 px-2 text-white hover:bg-indigo-500 rounded-full preNavA" to="team" spy={true} smooth={true} offset={50} duration={500}>
                                 Blog
                             </Link>
                         </div>
 
-                        <div className="hidden md:flex items-center space-x-1">
-                            <a className="py-3 px-2 text-white hover:bg-indigo-500 rounded-full" href="#">Login</a>
-                            <Link1 className="py-3 px-2 bg-indigo-500 hover:bg-buttonColor text-white rounded-full"
+                        <div className="hidden md:flex items-center space-x-1 rightSideNavSectionPre">
+                            <a className="py-3 px-2 text-white hover:bg-indigo-500 rounded-full rightSideNavAPre" href="#">Login</a>
+                            <Link1 className="py-3 px-2 bg-indigo-500 hover:bg-buttonColor text-white rounded-full rightSideNavAPre"
                                 to="footer" spy={true} smooth={true} offset={50} duration={1000} >
                                 Contact
                             </Link1>
